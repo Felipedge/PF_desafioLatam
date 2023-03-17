@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200&family=Ubuntu:wght@300&display=swap');
+
+.container-footer{
+    background-color: rgb(40, 33, 33);
+    height: 60px;
+
+}
+.titulo-footer{
+    font-family: 'Bitter', serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: #5dc1b9;
+    text-align: center;
+}

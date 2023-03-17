@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@200&family=Ubuntu:wght@300&display=swap');
+
+.container-about{
+    display: flex;
+    flex-direction: row;
+}
+.container-text {
+    background-color: rgb(56, 47, 47);
+    height: 100vh;
+    width: 60%;
+}
+
+.titulo-about {
+    font-family: 'Bitter', serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: #5dc1b9;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 100px;
+    padding-top: 40px;
+}
+
+.text-about {
+    font-family: 'Bitter', serif;
+    font-family: 'Ubuntu', sans-serif;
+    color: #5dc1b9;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.img-about{
+    height: 100vh;
+}
